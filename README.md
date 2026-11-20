@@ -16,3 +16,4 @@ Contexto del negocio
 Será construir un análisis correlacional estructurado que combine variables de comportamiento del cliente, segmentación y valor económico para usuarios de NovaRetail+ durante 2024.
 
 El objetivo es generar un reporte de análisis de correlación claro, responsable y accionable, que permita entender qué comportamientos del cliente están más fuertemente asociados con el ingreso generado, sin caer en interpretaciones causales incorrectas.
+Link del proyecto: https://github.com/Fabian2110978/Explorando-factores-de-comportamiento-en-NovaRetail/blob/main/S8%20Student%20Version-Project-NovaRetail.ipynb
